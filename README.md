@@ -18,7 +18,7 @@ I'm passionate about dynamic and responsive web applications that provide a seam
 - **Cloud**: AWS ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 - **Version Control**: Git & GitHub ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Projects
+## Personal Projects
 
 Coming soon...
 
@@ -26,7 +26,9 @@ Coming soon...
 
 - LinkedIn: [linkedin.com/in/arendsmarlon](https://www.linkedin.com/in/arendsmarlon/)
 
-Thank you for visiting my GitHub profile. Feel free to fork, star, and clone my repositories (once I create some - hahahaha). Happy coding! 🚀
+Thank you for visiting my GitHub profile. Feel free to fork, star, and clone my repositories (once I create some - hahahaha). 
+
+Happy coding! 🚀
 
 <!--
 **arendsmarlon/arendsmarlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
