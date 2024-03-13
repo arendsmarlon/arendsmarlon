@@ -4,8 +4,6 @@
 
 _(Please bear with me; I am still VERY new to the dev world.)_
 
-I'm Marlon Arends, an aspiring Full Stack Web Developer!
-
 I am a current Full Stack Web Development student at HyperionDev and a two-time graduate from the University of Pretoria.
 
 ## About Me
