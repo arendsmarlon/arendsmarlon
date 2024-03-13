@@ -10,7 +10,7 @@ I am a current Full Stack Web Development student at HyperionDev and a two-time 
 
 I'm passionate about dynamic and responsive web applications that provide a seamless user experience and data. I love solving and turning complex problems into simple, beautiful, intuitive solutions.
 
-## Skills (still in development...)
+## Developer Skills (still in development...{see what I did there🫠})
 
 - **Frontend**: HTML, CSS, JavaScript, React.js ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white)
 - **Backend**: Node.js, Express.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
